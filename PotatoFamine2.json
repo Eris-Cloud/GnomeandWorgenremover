@@ -1,7 +1,7 @@
 {
     "Author": "Eris",
     "Name": "Gnome and Worgen Remover",
-    "InternalName": "Lalaremover",
+    "InternalName": "PotatoFamine2",
     "AssemblyVersion": "2.0.0.2",
     "ApplicableVersion": "any",
     "Description": "Removes Gnomes and Worgens from ff14",

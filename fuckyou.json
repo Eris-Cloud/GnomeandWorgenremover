@@ -4,7 +4,7 @@
         "Name": "Gnome and Worgen remover",
         "Punchline": "game playable",
         "Description": "Removes Gnomes and Worgens from ff14",
-        "InternalName": "PotatoFamine",
+        "InternalName": "PotatoFamine2",
         "AssemblyVersion": "1.3.0.4",
         "RepoUrl": "https://github.com/Korosys/potato",
         "ApplicableVersion": "any",
