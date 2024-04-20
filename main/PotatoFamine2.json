@@ -34,9 +34,10 @@
   "LoadPriority": 0,
   "CanUnloadAsync": false,
   "SupportsProfiles": true,
-  "ImageUrls": null,
-  "IconUrl": "https://raw.githubusercontent.com/Eris-Cloud/GnomeandWorgenremover/main/Resources/Icons/PotatoFamine2.png",
-  "AcceptsFeedback": true,
+    "ImageUrls": [
+    "https://user-images.githubusercontent.com/47415874/233871863-846e1485-fd0f-429e-bc23-3f6009478a16.png"
+  ],
+"AcceptsFeedback": true,
   "FeedbackMessage": null,
   "_Dip17Channel": null
 }
