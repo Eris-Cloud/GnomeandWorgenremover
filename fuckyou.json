@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "Eris",
+        "Name": "Gnome and Worgen remover",
+        "Punchline": "game playable",
+        "Description": "Removes Gnomes and Worgens from ff14",
+        "InternalName": "PotatoFamine",
+        "AssemblyVersion": "1.3.0.4",
+        "RepoUrl": "https://github.com/Korosys/potato",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/Eris-Cloud/GnomeandWorgenremover/main/Resources/Icons/PotatoFamine2.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Eris-Cloud/GnomeandWorgenremover/blob/main/main.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Eris-Cloud/GnomeandWorgenremover/blob/main/main.zip",
+        "DownloadLinkUpdate": "https://github.com/Eris-Cloud/GnomeandWorgenremover/blob/main/main.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1678582237"
+    }
+]
