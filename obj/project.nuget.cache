@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DyLf05XVMAP8qjBzk2NacBMqgH4ScUK33/5iIMQHvm+jYrf7+nrJNjFvbMxo+ZLdAMO+W/tJK+nHvjUg+WzrpQ==",
+  "dgSpecHash": "mJDlHXnCL9PDZm1Zwov5X1mzuH3sQgcQxvuI9d3TF5yNefrvnu9TZ8ORE0JTERZNqJ0cRp6Jj5crjhSc5dr03g==",
   "success": true,
-  "projectFilePath": "F:\\Tools\\repos\\lalafell remover 2.0\\XIVPlugins-main\\PotatoFamine2\\PotatoFamine2.csproj",
+  "projectFilePath": "F:\\Tools\\repos\\eris lala remover\\GnomeandWorgenremover\\PotatoFamine2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DarkD\\.nuget\\packages\\dalamud.contextmenu\\1.3.1\\dalamud.contextmenu.1.3.1.nupkg.sha512",
     "C:\\Users\\DarkD\\.nuget\\packages\\dalamudpackager\\2.1.12\\dalamudpackager.2.1.12.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Tools\\repos\\lalafell remover 2.0\\XIVPlugins-main\\PotatoFamine2\\PotatoFamine2.csproj": {}
+    "F:\\Tools\\repos\\eris lala remover\\GnomeandWorgenremover\\PotatoFamine2.csproj": {}
   },
   "projects": {
-    "F:\\Tools\\repos\\lalafell remover 2.0\\XIVPlugins-main\\PotatoFamine2\\PotatoFamine2.csproj": {
+    "F:\\Tools\\repos\\eris lala remover\\GnomeandWorgenremover\\PotatoFamine2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tools\\repos\\lalafell remover 2.0\\XIVPlugins-main\\PotatoFamine2\\PotatoFamine2.csproj",
+        "projectUniqueName": "F:\\Tools\\repos\\eris lala remover\\GnomeandWorgenremover\\PotatoFamine2.csproj",
         "projectName": "PotatoFamine2",
-        "projectPath": "F:\\Tools\\repos\\lalafell remover 2.0\\XIVPlugins-main\\PotatoFamine2\\PotatoFamine2.csproj",
+        "projectPath": "F:\\Tools\\repos\\eris lala remover\\GnomeandWorgenremover\\PotatoFamine2.csproj",
         "packagesPath": "C:\\Users\\DarkD\\.nuget\\packages\\",
-        "outputPath": "F:\\Tools\\repos\\lalafell remover 2.0\\XIVPlugins-main\\PotatoFamine2\\obj\\",
+        "outputPath": "F:\\Tools\\repos\\eris lala remover\\GnomeandWorgenremover\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

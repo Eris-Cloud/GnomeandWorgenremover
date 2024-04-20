@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aida Enna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f515938da9f8b7713d89fa328c16491f14d95f56")]
 [assembly: System.Reflection.AssemblyProductAttribute("PotatoFamine2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PotatoFamine2")]
-[assembly: System.Reflection.AssemblyVersionAttribute("2.0.0.1")]
+[assembly: System.Reflection.AssemblyVersionAttribute("2.0.0.2")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows8.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows8.0")]
 
