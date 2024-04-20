@@ -1,0 +1,26 @@
+{
+    "Author": "Eris",
+    "Name": "Gnome and Worgen Remover",
+    "InternalName": "Lalaremover",
+    "AssemblyVersion": "2.0.0.2",
+    "ApplicableVersion": "any",
+    "Description": "Removes Gnomes and Worgens from ff14",
+    "Punchline": "game playable",
+    "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
+    "Tags": [
+        "lala",
+        "lalafell",
+        "potato",
+        "famine",
+        "aida"
+    ],
+    "CategoryTags": null,
+    "DalamudApiLevel": 9,
+    "LoadPriority": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": null,
+    "DownloadLinkUpdate": null,
+    "DownloadLinkTesting": null,
+    "ImageUrls": null,
+    "IconUrl": "F:\\Tools\\repos\\lalafell remover 2.0\\XIVPlugins-main\\PotatoFamine2\\Resources\\Icons\\PotatoFamine2.png"
+}

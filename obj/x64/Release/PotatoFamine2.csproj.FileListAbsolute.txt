@@ -1,0 +1,11 @@
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\Build\PotatoFamine2\PotatoFamine2.deps.json
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\Build\PotatoFamine2\PotatoFamine2.dll
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\Build\PotatoFamine2\PotatoFamine2.pdb
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\PotatoFamine2\obj\x64\Release\PotatoFamine2.csproj.AssemblyReference.cache
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\PotatoFamine2\obj\x64\Release\PotatoFamine2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\PotatoFamine2\obj\x64\Release\PotatoFamine2.AssemblyInfoInputs.cache
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\PotatoFamine2\obj\x64\Release\PotatoFamine2.AssemblyInfo.cs
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\PotatoFamine2\obj\x64\Release\PotatoFamine2.csproj.CoreCompileInputs.cache
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\PotatoFamine2\obj\x64\Release\PotatoFa.F57AAAA6.Up2Date
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\PotatoFamine2\obj\x64\Release\PotatoFamine2.dll
+F:\Tools\repos\lalafell remover 2.0\XIVPlugins-main\PotatoFamine2\obj\x64\Release\PotatoFamine2.pdb
